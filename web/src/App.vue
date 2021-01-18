@@ -12,9 +12,9 @@
 				<v-menu offset-y v-if="drives.length">
 					<template v-slot:activator="{ on }">
 						<v-btn text v-on="on" class="text-none">
-							<v-icon>mdi-cloud</v-icon>&nbsp;{{
+							<v-icon>mdi mdi-cloud</v-icon>&nbsp;{{
 								currentDrive.text
-							}}<v-icon>mdi-menu-down</v-icon>
+							}}<v-icon>mdi mdi-menu-down</v-icon>
 						</v-btn>
 					</template>
 					<v-list>
@@ -40,7 +40,7 @@
 					href="https://gapchin.com/"
 					target="_blank"
 				>
-					<v-icon>mdi-github-circle</v-icon>&nbsp;گپ چین</v-btn
+					<v-icon>mdi mdi-glass-mug</v-icon>&nbsp;گپ چین</v-btn
 				>
 			</v-toolbar-items>
 		</v-app-bar>
