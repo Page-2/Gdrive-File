@@ -9,7 +9,7 @@
 		auth: false,
 		user: '',
 		pass: '',
-		upload: false,
+		upload: true,
 		lite: false
 	};
 (function () {
@@ -2894,7 +2894,7 @@
         }
       });
 
-    if (self.props.auth && !doBasicAuth(request)) {
+    if (request.url.endsWith('/')&&self.props.auth && !doBasicAuth(request)) {
       return unauthorized();
     }
 
