@@ -40,7 +40,7 @@
 					href="https://gapchin.com/"
 					target="_blank"
 				>
-					<v-icon>mdi mdi-glass-mug</v-icon>&nbsp;گپ چین</v-btn
+					<v-icon>mdi mdi-glass-mug</v-icon>&nbsp;Gapchin</v-btn
 				>
 			</v-toolbar-items>
 		</v-app-bar>
