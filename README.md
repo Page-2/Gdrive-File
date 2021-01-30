@@ -9,8 +9,7 @@
 > It allows you to deploy a "Google Drive Index" on CloudFlare Workers along with many extra features
 >
 > By the way, instead of modify from GOIndex, this is a total rewrite
-> [Source](https://github.com/maple3142/GDIndex)
-
+[Source](https://github.com/maple3142/GDIndex)
 [Demo](https://gdindex-demo.maple3142.workers.dev/)
 
 ## Difference between GOIndex and GDIndex
