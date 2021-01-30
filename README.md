@@ -1,6 +1,6 @@
 # GDIndex Dark Mode
 
-![preview](https://github.gapchin.com/darkmode.jpg)
+![preview](https://github.gapchin.com/darkmode.jpg)[preview](https://github.gapchin.com/darkmode_mobile.jpg)
 
 [繁體中文](README.zhtw.md)
 [简体中文](README.zh.md)
