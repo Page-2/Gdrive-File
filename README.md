@@ -12,7 +12,7 @@
 
 [Source](https://github.com/maple3142/GDIndex)
 
-[Demo](https://github.gapchin.com/)
+[Dark Mode Demo](https://github.gapchin.com/)
 
 ## Difference between GOIndex and GDIndex
 
