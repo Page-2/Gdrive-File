@@ -2,19 +2,10 @@
 
 
 <p float="left">
-  <img src="https://github.gapchin.com/darkmode.jpg" width="500" />
-  <img src="https://github.gapchin.com/darkmode_mobile.jpg" width="149" />
+  <img src="https://github.gapchin.com/darkmode.jpg" width="705" />
+  <img src="https://github.gapchin.com/darkmode_mobile.jpg" width="210" />
 </p>
 
-<table style="width:100%">
-    <tr>
-        <td><img src="https://github.gapchin.com/darkmode.jpg"></td>
-        <td><img src="https://github.gapchin.com/darkmode_mobile.jpg"></td>
-    </tr>
-    <tr>
-        <td colspan="2"><center>Figure 1. Caption</center></td>
-    </tr>
-</table>
 
 [繁體中文](README.zhtw.md)
 [简体中文](README.zh.md)
