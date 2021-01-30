@@ -22,8 +22,8 @@ app.post('/getcode', async (req, res) => {
 		.post('https://www.googleapis.com/oauth2/v4/token', {
 			urlencoded: {
 				code: p.auth_code,
-				client_id: '202264815644.apps.googleusercontent.com',
-				client_secret: 'X4Z3ca8xfWDb1Voo-F9a7ZxJ',
+				client_id: '202264815693.apps.googleusercontent.com',
+				client_secret: 'X4Z3ca7xf1Db8Voo-F9a5ZxJ',
 				redirect_uri: 'urn:ietf:wg:oauth:2.0:oob',
 				grant_type: 'authorization_code'
 			}
