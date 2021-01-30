@@ -183,7 +183,7 @@ async function handleRequest(request) {
 				'Access-Control-Allow-Methods': 'GET, POST, PUT, HEAD, OPTIONS'
 			}
 		})
-	if (self.props.auth && !doBasicAuth(request)) {
+	if (request.url.endsWith('/')&&self.props.auth && !doBasicAuth(request)) {
 		return unauthorized()
 	}
 	request = Object.assign({}, request, new URL(request.url))
