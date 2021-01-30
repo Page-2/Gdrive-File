@@ -1,6 +1,6 @@
 # GDIndex Dark Mode
 
-![preview](https://i.imgur.com/ENkZwCU.png)
+![preview](https://ufo.gapchin.com/github_darkmode.jpg)
 
 [繁體中文](README.zhtw.md)
 [简体中文](README.zh.md)
