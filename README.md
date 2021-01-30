@@ -1,6 +1,6 @@
 # GDIndex Dark Mode
 
-![preview](https://ufo.gapchin.com/github_darkmode.jpg)
+![preview](https://github.gapchin.com/github_darkmode.jpg)
 
 [繁體中文](README.zhtw.md)
 [简体中文](README.zh.md)
@@ -28,7 +28,7 @@
 
 ### Simple and automatic way
 
-Go [https://gdindex-code-builder.maple3142.net/](https://gdindex-code-builder.maple3142.net/), and follow its instructions.
+Go [GDIndex Code Builder](https://gdindex-code-builder.kolahsiah.repl.co/), and follow its instructions.
 
 ### Manual way
 
