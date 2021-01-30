@@ -1,10 +1,10 @@
 # GDIndex Dark Mode
 
-![preview](https://github.gapchin.com/darkmode.jpg)  |  ![preview](https://github.gapchin.com/darkmode_mobile.jpg)
+  |  
 
-Solarized dark             |  Solarized Ocean
+          Desktop          |          Mobile
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![preview](https://github.gapchin.com/darkmode.jpg)  |  ![preview](https://github.gapchin.com/darkmode_mobile.jpg)
 
 [繁體中文](README.zhtw.md)
 [简体中文](README.zh.md)
