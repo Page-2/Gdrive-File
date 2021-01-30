@@ -23,6 +23,7 @@
 -   No directory-level password protection(.password)
 -   Support Http Basic Auth
 -   Support multiple drives(personal, team) without changing server's code
+-   Only access directory need auth - [I change...](https://github.com/maple3142/GDIndex/issues/46#issuecomment-608016890) - Sub dir don't need
 
 ## Usage
 
