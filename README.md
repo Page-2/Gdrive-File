@@ -2,8 +2,8 @@
 
 <table style="width:100%;">
     <tr>
-        <td><img src="https://github.gapchin.com/darkmode.jpg"></td>
-        <td><img src="https://github.gapchin.com/darkmode_mobile.jpg"></td>
+        <td><img src="https://github.gapchin.ir/darkmode.jpg"></td>
+        <td><img src="https://github.gapchin.ir/darkmode_mobile.jpg"></td>
     </tr>
 </table>
 
@@ -17,7 +17,7 @@
 
 [Source](https://github.com/maple3142/GDIndex)
 
-[Dark Mode Demo](https://github.gapchin.com/)
+[Dark Mode Demo](https://github.gapchin.ir/)
 
 ## Difference between GOIndex and GDIndex
 
