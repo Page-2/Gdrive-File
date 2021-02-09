@@ -2894,7 +2894,7 @@
         }
       });
 
-    if (request.url.endsWith('/')&&self.props.auth && !doBasicAuth(request)) {
+    if (self.props.auth && !doBasicAuth(request)) {
       return unauthorized();
     }
 
