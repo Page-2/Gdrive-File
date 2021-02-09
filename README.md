@@ -34,7 +34,7 @@
 
 ### Simple and automatic way
 
-Go [GDIndex Code Builder](https://gdindex-code-builder.kolahsiah.repl.co/), and follow its instructions.
+Go [GDIndex Code Builder](https://gdrive.kolahsiah.repl.co/), and follow its instructions.
 
 ### Manual way
 
