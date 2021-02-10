@@ -1,8 +1,8 @@
 	self.props = {
 		title: 'Your Title',
 		default_root_id: 'root',
-		client_id: '661552624073-kf541m2fc5on6qls3i3n057i4i3r6pqm.apps.googleusercontent.com',
-		client_secret: 'C1Z_I8UmDe4OACwdvmZGhy30',
+		client_id: '202264815644.apps.googleusercontent.com',
+		client_secret: 'X4Z3ca8xfWDb1Voo-F9a7ZxJ',
 		refresh_token: '',
 		service_account: false,
 		service_account_json: {},
