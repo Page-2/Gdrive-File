@@ -2,8 +2,8 @@
 
 <table style="width:100%;">
     <tr>
-        <td><img src="https://github.gapchin.workers.dev/darkmode.jpg"></td>
-        <td><img src="https://github.gapchin.workers.dev/darkmode_mobile.jpg"></td>
+        <td><img src="http://github.gapchin.workers.dev/darkmode.jpg"></td>
+        <td><img src="http://github.gapchin.workers.dev/darkmode_mobile.jpg"></td>
     </tr>
 </table>
 
